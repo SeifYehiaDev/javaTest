@@ -17,7 +17,7 @@ public class Listing_05_06_TestDoWhile {
             data = input.nextInt();
             sum += data;
         } while (data != 0);
-        System.out.println("The sum is " + sum);
+        System.out.println("The sum is aosjkapsk " + sum);
     }
 }
 
